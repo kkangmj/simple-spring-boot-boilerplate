@@ -18,12 +18,12 @@ Quick start for spring boot project.
 ### Quick start
 
 1. Clone repo.
-    ```bash
+    ```
     git clone https://github.com/kkangmj/simple-spring-boot-boilerplate.git
     ```
 2. Go to `File > Project Structure > Project > Project Name` and update project name with new name.
 3. Go to `settings.gradle` file and change rootProject name as same.
-    ```gradle
+    ```
     rootProject.name = 'sth u want'
     ```
 4. Exit IntelliJ IDEA and rename project root folder name in file explorer. 
