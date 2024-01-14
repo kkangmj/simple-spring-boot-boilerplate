@@ -12,6 +12,7 @@ Quick start for spring boot project.
 - spring-boot-starter-web
 - spring-boot-starter-data-jpa
 - h2
+- lombok
 - spring-boot-starter-test
 
 ### Quick start
