@@ -27,4 +27,5 @@ Quick start for spring boot project.
     ```
 4. Exit IntelliJ IDEA and rename project root folder name in file explorer. 
 5. Restart IntelliJ and import project again.
-6. Done for setup! Start coding!
+6. Right click on pacakge(com.mango.springbootboilerplate) and rename it.
+7. Done for setup! Start coding!
