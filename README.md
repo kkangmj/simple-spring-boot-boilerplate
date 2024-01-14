@@ -2,6 +2,11 @@
 
 Quick start for spring boot project. 
 
+### Prerequisites
+- JDK 17+
+- Spring Boot 3.2.2
+- Gradle 8.5
+
 ### Dependency
 
 - spring-boot-starter-web
@@ -13,13 +18,12 @@ Quick start for spring boot project.
 
 1. Clone repo to your local repo.
     ```bash
-    $ git clone https://github.com/kkangmj/simple-spring-boot-boilerplate.git
+    git clone https://github.com/kkangmj/simple-spring-boot-boilerplate.git
     ```
 
-2. Change project directory name and settings.gradle file.
+2. Change project directory name and `settings.gradle` file.
     ```gradle
-    // settings.gradle
     rootProject.name = 'sth u want'
     ```
    
-3. Start your coding!
+3. Start coding!
